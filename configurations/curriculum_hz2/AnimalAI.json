@@ -10,7 +10,6 @@
     3.0,
     0.1,
     2.1,
-    1.8
   ],
   "min_lesson_length": 100,
   "signal_smoothing": true,
@@ -25,6 +24,5 @@
     "7.yml",
     "8.yml",
     "9.yml",
-    "10.yml"
   ]
 }
